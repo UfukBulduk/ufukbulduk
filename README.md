@@ -4,12 +4,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Ufuk Bulduk and I'm a DWH Developer/ Data Scientist. I'm living in İstanbul,Turkey and currently working at Turkcell Technology.</b>
-You can find me on [![GitHub][2.1]][1] and [![LinkedIn][3.2]][2].<br>
+<!--You can find me on [![GitHub][2.1]][1] and [![LinkedIn][3.2]][2].<br> -->
 
 🔭 I’m currently working on DWH via Engineer.<br>
 🌱 I’m currently learning Data Science & Big Data 
+<br>
 
-
+## 📫 How to reach me?
+[![Linkedin: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
+[![Kaggle: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-grey?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
+<br>
 
 ## &#x270d; Blog & Writing
 
@@ -28,6 +32,8 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=pyspark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+
 
 ## &#x1f4c8; GitHub Stats
 <div>
