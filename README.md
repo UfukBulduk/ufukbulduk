@@ -11,19 +11,20 @@ My name is Ufuk Bulduk. I live in İstanbul,Turkey. I’m currently working on D
 <br>
 
 
+<!-- ## 📫 How to reach me? -->
 
-## 📫 How to reach me?
-
-<p align="left">
-  <!--<a href="https://sefiks.com/"><img src="https://github.com/serengil/serengil/blob/master/icons/wordpress.png" width="40" height="40"></a>-->
-  <!--<a href="https://medium.com/@buldukufuk"><img src="https://github.com/UfukBulduk/ufukbulduk/blob/master/icons/Medium.png" width="40" height="40"></a>-->
+<p align="right">
   <a href="https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/"><img src="https://github.com/serengil/serengil/blob/master/icons/linkedin_v2.png" width="40" height="40"></a>
+  <a href="https://medium.com/@buldukufuk"><img src="https://github.com/UfukBulduk/ufukbulduk/blob/main/Medium.png" width="40" height="40"></a>
+  <a href="https://www.kaggle.com/ufukbulduk"><img src="https://github.com/UfukBulduk/ufukbulduk/blob/main/Kaggle.png" width="60" height="25"></a>
 </p>
 
-[![Linkedin: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
+<!--[![Linkedin: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
 [![Kaggle: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-lightblue?style=flat-square&logo=Kaggle&logoColor=darkblue&link=https://www.kaggle.com/ufukbulduk)](https://www.kaggle.com/ufukbulduk)
 [![Medium: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-brown?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@buldukufuk)](https://medium.com/@buldukufuk)
 <br>
+-->
+
 
 <!--## &#x270d; Blog & Writing
 
