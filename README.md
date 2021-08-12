@@ -51,13 +51,12 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 
 <code><img src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png" height="20" /></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="20" /></code>  
-<!--<code><img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="20" ></code>-->
-<code><img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code> 
 <code><img src="https://opendatascience.com/wp-content/uploads/2018/10/K2.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code>
 <code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-
+<code><img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code> 
+<!--<code><img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="20" ></code>-->
 ## &#x1f4c8; GitHub Stats
 <div>
 <a href="https://github.com/UfukBulduk/UfukBulduk">
