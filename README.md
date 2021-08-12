@@ -4,9 +4,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Ufuk Bulduk and I'm a DWH Developer/ Data Scientist. I'm living in İstanbul,Turkey and currently working at Turkcell Technology.</b>
-You can find me on [![GitHub][2.1]][1],  or on [![LinkedIn][3.2]][2].</b>
+You can find me on [![GitHub][2.1]][1] and [![LinkedIn][3.2]][2].<br>
 
-🔭 I’m currently working on DWH via Engineer.</a>
+🔭 I’m currently working on DWH via Engineer.<br>
 🌱 I’m currently learning Data Science & Big Data 
 
 
@@ -30,13 +30,14 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-
+<div>
 <a href="https://github.com/UfukBulduk/UfukBulduk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfukBulduk&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=UfukBulduk&show_icons=true&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=radical" />
+<!-- </a>
+<a href="https://github.com/UfukBulduk/UfukBulduk"> -->
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfukBulduk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ufuk's GitHub Stats" />
 </a>
-<a href="https://github.com/UfukBulduk/UfukBulduk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UfukBulduk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ufuk's GitHub Stats" />
-</a>
+ </div>
 <!--
 <a href="https://github.com/UfukBulduk/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UfukBulduk&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -44,7 +45,7 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 <a href="https://github.com/UfukBulduk/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UfukBulduk&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
->
+-->
 
 <!-- links to social media icons -->
 
