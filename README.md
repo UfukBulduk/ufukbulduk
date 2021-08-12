@@ -12,7 +12,7 @@ My name is Ufuk Bulduk. I live in İstanbul,Turkey. I’m currently working on D
 
 ## 📫 How to reach me?
 [![Linkedin: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
-[![Kaggle: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-grey?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
+[![Kaggle: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-lightblue?style=flat-square&logo=Kaggle&logoColor=darkblue&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
 [![Medium: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-brown?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@buldukufuk)](https://medium.com/@buldukufuk)
 <br>
 
@@ -49,13 +49,13 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 
 ### 📚 Learning
 
-<code><img src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png" height="20" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="20" /></code>  
 <code><img src="https://opendatascience.com/wp-content/uploads/2018/10/K2.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code>
 <code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
-<code><img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code> 
+<code><img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code>
+<code><a href="" target="_blank"><img src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png" height="20" /></a></code>
+<code><a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="20" /></a></code>  
 <!--<code><img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="20" ></code>-->
 ## &#x1f4c8; GitHub Stats
 <div>
