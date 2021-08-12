@@ -7,19 +7,22 @@ My name is Ufuk Bulduk and I'm a DWH Developer/ Data Scientist. I'm living in İ
 <!--You can find me on [![GitHub][2.1]][1] and [![LinkedIn][3.2]][2].<br> -->
 
 🔭 I’m currently working on DWH via Engineer.<br>
-🌱 I’m currently learning Data Science & Big Data 
+🌱 I’m learning Data Science & Big Data 
 <br>
 
 ## 📫 How to reach me?
 [![Linkedin: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
 [![Kaggle: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-grey?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)](https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/)
+[![Medium: ufukbulduk](https://img.shields.io/badge/-ufukbulduk-brown?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@buldukufuk)](https://medium.com/@buldukufuk)
 <br>
 
-## &#x270d; Blog & Writing
+<!--## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on medium [Medium](https://medium.com/).
+Apart from coding, I also maintain a blog - you can find my articles on medium [Medium](https://medium.com/@buldukufuk).
+-->
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools<br>
+### ✅ Know
 ![](https://img.shields.io/badge/Tools-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MicrosoftSQLServer-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-TeradataSQL-informational?style=flat&logo=teradata&logoColor=white&color=2bbc8a)
@@ -33,7 +36,27 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 ![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=pyspark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+<code><img src="https://www.pngkit.com/png/detail/787-7876071_tableau-tableau-software.png" alt="Tableau - Tableau Software@pngkit.com" height="20" ></code> 
+<code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
+<code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" height="20" ></code>
+<code><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="20" ></code>
+<code><a href="" target="_blank"><img height="20" src="https://www.technopat.net/wp-content/uploads/2018/09/MS-SQL-Server.jpg"></a></code>
+<code><img src="https://webmaster.kitchen/wp-content/uploads/knime.png" height="20" ></code>
+<code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<!--<code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a></code> -->
 
+
+### 📚 Learning
+
+<code><img src="https://berkarat.com/wp-content/uploads/2018/10/c-logo.png" height="20" /></code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" height="20" /></code>  
+<!--<code><img src="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" alt="C Programming Icon - C Programming Language Logo@pngkit.com" height="20" ></code>-->
+<code><img src="https://www.pngkit.com/png/detail/519-5198030_applitools-on-twitter-selenium-webdriver-icon.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code> 
+<code><img src="https://opendatascience.com/wp-content/uploads/2018/10/K2.png" alt="Applitools On Twitter - Selenium Webdriver Icon@pngkit.com" height="20" ></code>
+<code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg"></a></code>
+<code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/eclipse/eclipse-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="20" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 
 ## &#x1f4c8; GitHub Stats
 <div>
