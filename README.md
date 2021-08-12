@@ -3,10 +3,10 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Ufuk Bulduk and I'm a DWH Developer/ Data Scientist. I'm living in İstanbul,Turkey and currently working at Turkcell Technology.</b>
+My name is Ufuk Bulduk. I live in İstanbul,Turkey. I’m currently working on DWH as a Data Engineer at Turkcell Technology.</b>
 <!--You can find me on [![GitHub][2.1]][1] and [![LinkedIn][3.2]][2].<br> -->
 
-🔭 I’m currently working on DWH via Engineer.<br>
+🔭 I’m currently working on DWH as an Engineer.<br>
 🌱 I’m learning Data Science & Big Data 
 <br>
 
