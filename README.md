@@ -64,8 +64,8 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
   <img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=UfukBulduk&show_icons=true&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&theme=radical" />
 <!-- </a>
 <a href="https://github.com/UfukBulduk/UfukBulduk"> -->
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfukBulduk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ufuk's GitHub Stats" />
-</a>
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UfukBulduk&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ufuk's GitHub Stats" />
+  </a>
  </div>
 <!--
 <a href="https://github.com/UfukBulduk/python-project-blueprint">
@@ -79,18 +79,18 @@ Apart from coding, I also maintain a blog - you can find my articles on medium [
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
-
+<!--
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
+<!-- icons without padding --
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://github.com/UfukBulduk/UfukProfile/blob/main/linkedin.png (LinkedIn icon without padding)
 
 
-<!-- links to your social media accounts -->
+<!-- links to your social media accounts --
 
 [1]: https://github.com/UfukBulduk
 [2]: https://www.linkedin.com/in/ufuk-bulduk-msc-333190103/
